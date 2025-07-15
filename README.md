@@ -1,5 +1,5 @@
 # Life expectancy predictor
-##Co-authors: sianbrady17, Saka1111, MustafaCh1
+## Co-authors: sianbrady17, Saka1111, MustafaCh1
 This repo contains 4 files.
 ## 1. EDA
 This file takes WHO data from a csv and investigates the nature of the data and its suitability for linear regression predicting life expectancy.
